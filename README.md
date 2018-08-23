@@ -6,9 +6,10 @@ This repository contains a python implementation of experiments in paper:
 - algos.py  Implementation of active learning algorithms
 - data.py   Preprocessing of data sets
 - experiments.py    Implementation of experiments
+- logger.py	Logging information for plots and reports
 - main.py   The main file
 - model.py  Implementation of a linear model
 - opt.py    Implementation of stochastic gradient descent with weighted samples
-- utils.py  Auxiliary fundtions
+- utils.py  Auxiliary functions
 
 Data sets should be put in "../data", and results are located in "../results/".
